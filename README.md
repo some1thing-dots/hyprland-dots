@@ -1,1 +1,1 @@
-My configs
+My configs for arch linux hyprland
